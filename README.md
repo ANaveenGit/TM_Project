@@ -68,9 +68,9 @@ In Visual Studio, go to __Tools > NuGet Package Manager > Manage NuGet Packages 
 
 - Test results will be displayed in the Test Explorer or the terminal output.
 - For detailed logs, check the output window in Visual Studio.
--A total of 54 test cases were covered in the project, including both Positive and Negative scenarios.
--Out of these, 2 test cases failed, as they did not work as expected. You will see an Assert.Fail message for these scenarios.
--The remaining 52 test cases passed, as they worked as expected. You will see a Pass message for these scenarios.
+- A total of 54 test cases were covered in the project, including both Positive and Negative scenarios.
+- Out of these, 2 test cases failed, as they did not work as expected. You will see an Assert.Fail message for these scenarios.
+- The remaining 52 test cases passed, as they worked as expected. You will see a Pass message for these scenarios.
 
 
 ## Key Features
